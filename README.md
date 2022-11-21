@@ -1,5 +1,15 @@
 # Evidencia 1 / Unity
 
+### How to run
+1. Download the project
+2. Open the project in Unity
+3. Close unity
+4. Open the project in Unity again
+5. Open the scene `Assets/Scenes/Simulation.unity`
+6. Open the folder `SimulationServer` in the project
+7. Run `flask run` in the terminal of the folder
+8. Run the scene in Unity
+
 ### Assets used
 
 - This work is based on "Tesla Model S" (https://sketchfab.com/3d-models/tesla-model-s-05fc567cc4e644d5bd3098cb521ab609) by Sengchor (https://sketchfab.com/Sengchor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
