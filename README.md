@@ -1,8 +1,14 @@
 # Evidencia 1 / Unity
 
+### Creators:
+- Luis Alberto Alcántara Cabrales A01634185
+- Alexa Serrano Negrete A01654063
+- Renet de Jesús Pérez Gómez A01640555
+- Vicente Javier Viera Guízar A01639784
+
 ### How to run
 1. Download the project
-2. Open the project in Unity
+2. Open the project in Unity Hub (version 2019.4.1f1) (https://unity3d.com/es/get-unity/download/archive)
 3. Close unity
 4. Open the project in Unity again
 5. Open the scene `Assets/Scenes/Simulation.unity`
