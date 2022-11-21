@@ -8,7 +8,7 @@
 
 ### How to run
 1. Download the project
-2. Open the project in [Unity Hub](https://unity3d.com/get-unity/download)
+2. Open the project in [Unity](https://unity3d.com/get-unity/download)
 3. Close unity
 4. Open the project in Unity again
 5. Open the scene `Assets/Scenes/Simulation.unity`
