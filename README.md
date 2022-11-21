@@ -8,7 +8,7 @@
 
 ### How to run
 1. Download the project
-2. Open the project in Unity Hub (version 2019.4.1f1) (https://unity3d.com/es/get-unity/download/archive)
+2. Open the project in [Unity Hub](https://unity3d.com/get-unity/download)
 3. Close unity
 4. Open the project in Unity again
 5. Open the scene `Assets/Scenes/Simulation.unity`
