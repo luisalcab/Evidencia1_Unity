@@ -1,0 +1,11 @@
+Model Information:
+* title:	Microbus Mexico DF
+* source:	https://sketchfab.com/3d-models/microbus-mexico-df-2e11ed69dd064236aca7e18412ab89db
+* author:	alecsvaldez (https://sketchfab.com/alexvzzz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Microbus Mexico DF" (https://sketchfab.com/3d-models/microbus-mexico-df-2e11ed69dd064236aca7e18412ab89db) by alecsvaldez (https://sketchfab.com/alexvzzz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
